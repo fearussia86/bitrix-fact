@@ -1,2 +1,4 @@
 ###Игнорирование папок и файлов JS
 __pycache__*
+docker-compose.yaml[s]
+docker-compose.yaml
